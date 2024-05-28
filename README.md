@@ -5,5 +5,5 @@ We are creating Amazon Website Clone using HTML,CSS and  Javascript
   Css
   JavaScript
 
-<img src="img/slide_1.jpg">
+<img src="img/Screenshot 2024-05-28 120602.png">
   
